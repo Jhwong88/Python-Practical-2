@@ -1,4 +1,4 @@
-#q02_triangle
+#q03_Determining grades
 # Done by Wong Jun Hao
 
 
